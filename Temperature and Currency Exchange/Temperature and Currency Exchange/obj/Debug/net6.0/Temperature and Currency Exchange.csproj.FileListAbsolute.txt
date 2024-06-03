@@ -1,0 +1,19 @@
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Temperature and Currency Exchange.exe
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Temperature and Currency Exchange.deps.json
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Temperature and Currency Exchange.runtimeconfig.json
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Temperature and Currency Exchange.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Temperature and Currency Exchange.pdb
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.AssemblyInfo.cs
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\refint\Temperature and Currency Exchange.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.pdb
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.genruntimeconfig.cache
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\ref\Temperature and Currency Exchange.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Temperature and Currency Exchange\Temperature and Currency Exchange\obj\Debug\net6.0\Temperature and Currency Exchange.csproj.CopyComplete
